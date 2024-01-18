@@ -1,4 +1,4 @@
-﻿# Amazon Clone
+﻿# Spotify Clone
 
 ### A clone of the Spotify website for practicing web development skills.
 
